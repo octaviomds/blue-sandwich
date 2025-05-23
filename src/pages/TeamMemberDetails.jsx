@@ -13,7 +13,7 @@ const TeamMemberDetails = () => {
   const team = membersData.find((team) => team.id === parseInt(teamId));
 
   if (!team) {
-    return <p>Team not found</p>;
+    return <p>DEMO GARAGE</p>;
   }
 
   return (
