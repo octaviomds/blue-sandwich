@@ -31,7 +31,7 @@ const SingleBlog = () => {
           type={true}
           bgText="SIMILARBLOG"
           title="SIMILAR BLOG"
-          desp="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard."
+          desp="MDS DEMO."
         />
         <div className="ak-height-50 ak-height-lg-50"></div>
         <div className="row row-cols-1 row-cols-md-1 row-cols-lg-3 g-5 g-lg-4">
