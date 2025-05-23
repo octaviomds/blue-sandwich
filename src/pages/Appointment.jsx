@@ -17,7 +17,7 @@ const Appointment = () => {
         bgText={"PROCESS"}
         title={"PROCESS / FEATURE"}
         desp={
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+          "MDS DEMO."
         }
       />
       <ServiceProgres />
