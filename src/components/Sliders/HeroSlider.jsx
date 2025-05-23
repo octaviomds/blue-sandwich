@@ -155,7 +155,7 @@ const HeroSlider = () => {
                 <img src="/assets/img/icon/hero-email.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                Mds.demo@email.com
+                Mds.demo@Gmail.com
               </p>
             </div>
           </Link>
