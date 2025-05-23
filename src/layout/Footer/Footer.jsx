@@ -9,7 +9,7 @@ const footerDataArray = [
     className: "footer-info",
     dataAosDelay: "0",
     phone: "(406) 555-0120",
-    desp: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan. Lorem Ipsum is.",
+    desp: "GARAGE DEMO MDS.",
   },
   {
     className: "footer-menu-one",
