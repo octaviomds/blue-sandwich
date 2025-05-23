@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const sliderData = [
   {
     id: 1,
-    title: "Car Repair & Auto",
+    title: "Car Repair & Auto-Mds",
     maintitle: "Services",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
@@ -15,7 +15,7 @@ const sliderData = [
   },
   {
     id: 2,
-    title: "AUTOMOTIVE REPAIR",
+    title: "AUTOMOTIVE REPAIR MDS",
     maintitle: "MAINTENANCE",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
@@ -23,7 +23,7 @@ const sliderData = [
   },
   {
     id: 3,
-    title: "Car Repair & Auto",
+    title: "Car Repair & Auto Mds",
     maintitle: "Services",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
@@ -31,7 +31,7 @@ const sliderData = [
   },
   {
     id: 4,
-    title: "AUTOMOTIVE REPAIR",
+    title: "AUTOMOTIVE REPAIR MDS",
     maintitle: "MAINTENANCE",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
@@ -155,7 +155,7 @@ const HeroSlider = () => {
                 <img src="/assets/img/icon/hero-email.svg" alt="..." />
               </div>
               <p className="ak-font-18 ak-white-color ak-semi-bold">
-                example@email.com
+                Mds.demo@email.com
               </p>
             </div>
           </Link>
