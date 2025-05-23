@@ -17,7 +17,7 @@ const SingleBlog = () => {
     .slice(0, 3);
 
   if (!blog) {
-    return <p>Blog post not found</p>;
+    return <p>Blog MDS</p>;
   }
 
   return (
